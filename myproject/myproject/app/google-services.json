@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524674811925",
+    "project_id": "exchangeskills-d7e74",
+    "storage_bucket": "exchangeskills-d7e74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524674811925:android:918a2f4f82cc36ebb6a61c",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4QfUn78M7464eFbSVe5_yL29hNdl7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

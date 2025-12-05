@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myproject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_forgot_password_screen">ForgotPasswordScreen</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+    <string name="title_activity_components">Components</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
